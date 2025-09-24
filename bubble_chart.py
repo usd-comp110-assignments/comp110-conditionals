@@ -6,6 +6,9 @@ def create_bubbles(canvas):
 def get_color(value):
     pass
 
+def test_get_color():
+    pass
+
 def main():
     """
     Main function 
