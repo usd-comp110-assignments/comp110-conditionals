@@ -1,6 +1,8 @@
 import tkinter as tk
 
 def create_bubbles(canvas):
+    width = int(canvas["width"])
+    height = int(canvas["height"])
     pass
 
 def get_color(value):
