@@ -1,7 +1,24 @@
+"""
+Module: bubble_chart
+
+Code to create a bubble chart showing the relationship between tuition price, acceptance rate,
+and endowment size across multiple universities.
+
+Authors: <REPLACE THIS WITH YOU AND YOUR PARTNERS FULL NAMES>
+"""
 import tkinter as tk
 
 def scale_acceptance_rate(acceptance_rate, max_scaled_value):
     pass
+
+
+def scale_tuition(tuition, max_scaled_value):
+    pass
+
+
+def scale_endowment(endowment, max_scaled_value):
+    pass
+
 
 def create_bubbles(canvas):
     width = int(canvas["width"])
