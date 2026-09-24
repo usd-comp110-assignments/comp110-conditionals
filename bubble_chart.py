@@ -16,8 +16,7 @@ def scale_tuition(tuition, max_tuition, max_scaled_value):
     pass
 
 
-def scale_endowment(endowment, max_endowment, max_scaled_value):
-    pass
+# Add your scale_endowment function after this line
 
 
 def create_bubbles(canvas):
