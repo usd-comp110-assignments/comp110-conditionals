@@ -20,6 +20,7 @@ def scale_tuition(tuition, max_tuition, max_scaled_value):
 
 
 def create_bubbles(canvas):
+    # get the dimensions of the canvas
     width = int(canvas["width"])
     height = int(canvas["height"])
     
