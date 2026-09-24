@@ -12,11 +12,11 @@ def scale_acceptance_rate(acceptance_rate, max_scaled_value):
     pass
 
 
-def scale_tuition(tuition, max_scaled_value):
+def scale_tuition(tuition, max_tuition, max_scaled_value):
     pass
 
 
-def scale_endowment(endowment, max_scaled_value):
+def scale_endowment(endowment, max_endowment, max_scaled_value):
     pass
 
 
