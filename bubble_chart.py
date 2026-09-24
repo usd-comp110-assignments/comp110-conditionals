@@ -1,5 +1,8 @@
 import tkinter as tk
 
+def scale_acceptance_rate(acceptance_rate, max_scaled_value):
+    pass
+
 def create_bubbles(canvas):
     width = int(canvas["width"])
     height = int(canvas["height"])
