@@ -3,13 +3,21 @@ import tkinter as tk
 def create_bubbles(canvas):
     width = int(canvas["width"])
     height = int(canvas["height"])
-    pass
+    
+    # To Do: Write your code for this function below this line.
 
 def get_color(value):
-    pass
+    return "black"
 
 def test_get_color():
-    pass
+    """Runs and checks test cases for the get_color function."""
+    print("Testing get_color function")
+
+    print("Testing input: 67")
+    if get_color(67) == "yellow":
+        print("Passed")
+    else:
+        print("Failed")
 
 def main():
     """
